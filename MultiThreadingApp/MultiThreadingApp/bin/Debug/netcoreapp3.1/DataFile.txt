@@ -1,0 +1,10 @@
+TaskId:5, Number:743, ModResult:50
+TaskId:6, Number:837, ModResult:45
+TaskId:3, Number:295, ModResult:97
+TaskId:4, Number:743, ModResult:50
+TaskId:7, Number:11, ModResult:11
+TaskId:10, Number:62, ModResult:62
+TaskId:11, Number:16, ModResult:16
+TaskId:12, Number:842, ModResult:50
+TaskId:13, Number:341, ModResult:44
+TaskId:14, Number:607, ModResult:13

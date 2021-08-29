@@ -1,0 +1,13 @@
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\bin\Release\netcoreapp3.1\MultiThreadingApp.exe
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\bin\Release\netcoreapp3.1\MultiThreadingApp.deps.json
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\bin\Release\netcoreapp3.1\MultiThreadingApp.runtimeconfig.json
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\bin\Release\netcoreapp3.1\MultiThreadingApp.runtimeconfig.dev.json
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\bin\Release\netcoreapp3.1\MultiThreadingApp.dll
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\bin\Release\netcoreapp3.1\MultiThreadingApp.pdb
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\obj\Release\netcoreapp3.1\MultiThreadingApp.AssemblyInfoInputs.cache
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\obj\Release\netcoreapp3.1\MultiThreadingApp.AssemblyInfo.cs
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\obj\Release\netcoreapp3.1\MultiThreadingApp.csproj.CoreCompileInputs.cache
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\obj\Release\netcoreapp3.1\MultiThreadingApp.dll
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\obj\Release\netcoreapp3.1\MultiThreadingApp.pdb
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\obj\Release\netcoreapp3.1\MultiThreadingApp.genruntimeconfig.cache
+D:\Priya\.netProjects\MultiThreadingApp\MultiThreadingApp\obj\Release\netcoreapp3.1\MultiThreadingApp.csproj.AssemblyReference.cache
